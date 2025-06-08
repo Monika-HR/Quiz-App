@@ -40,5 +40,8 @@ This app is ideal for:
 5. View the summary at the end of the quiz.
 
 ---
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> b79cb1ab2647ea9420e94faa5b201bc001122729
